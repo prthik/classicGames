@@ -1,0 +1,14 @@
+body {
+    background: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#breakoutCanvas {
+    background: #000;
+    box-shadow: 0 0 20px #0ff, 0 0 40px #0ff;
+    display: block;
+}
