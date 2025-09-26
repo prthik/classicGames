@@ -1,0 +1,15 @@
+body {
+    background: #232427;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#snake {
+    background: #111;
+    box-shadow: 0 0 16px #0f0;
+    display: block;
+    border: 2px solid #555;
+}
